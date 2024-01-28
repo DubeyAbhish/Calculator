@@ -1,0 +1,4 @@
+﻿
+using Ram;
+
+Laxman.CalCulator();
